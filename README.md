@@ -1,2 +1,3 @@
 # InScriptify
- Graduation Project Seng491
+Software Engineering Department of Çankaya University
+Graduation Project Seng491
